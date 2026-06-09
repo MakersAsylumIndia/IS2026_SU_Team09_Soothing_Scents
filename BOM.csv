@@ -1,6 +1,42 @@
-﻿Name of the Material/Component,Quantity,Reference Link,Additional Note
-,,,
-,,,
-,,,
-,,,
-,,,
+Year	2026				
+Cohort	2				
+Team No	9				
+Team Name					
+Project Name	Soothing Scents				
+Team Members	Karun Kumar Warrier	Rudrav Khaitan	Dia Kumar		
+Email IDs	karunwarrier1@gmail.com	khaitan.rudrav@gmail.com	diakumar28@gmail.com		
+Team Mentor					
+					
+					
+					
+					
+					
+					
+Notes					
+* Download this template(File>Download>xlsx) and fill the sheet in the below given format. Share the editable link in the Airtable form					
+* Explain your project in brief					
+* This sheet will be considered as Bill of material for your project. So mention every item required for the project even if you already have few of the components 					
+"* For all the components that you are ordering online provide the reference link of the online store from where you are planning to place the order. 
+Prefer ordering the components from stores like robu, hubtronics, roboticsdna etc. A more comprehensive VENDOR LIST is at : MAKERVILLE"					
+* For the components that you are planning to purchase from your local store provide the reference link of image or video					
+* DO NOT RELY ON GETTING ANYTHING FROM THE LOCAL STORE HERE IN GOA. YOU WON'T HAVE THE TIME, MEANS OR AVAILABILITY TO GET THE COMPONENTS FROM THE LOCAL STORE					
+					
+Project Brief:					
+					
+Sr no	Product name	Qty	Type	Purpose	Reference link
+1	ESP 32	3		Microcontroller - code	https://docs.google.com/document/d/1IB6W_p56Vkme-QZw-XDX4Rx-k3IZQO2w8LFg0mZB24o/edit?tab=t.0
+2	Ultrasonic discs	6		Vibrations create scent mists (for diffusion)	
+3	Wires	1 pack		Connections between parts	
+4	Bread board	2		Connections between parts	
+5	Relay module	2		To control the ultrasonic disks	
+6	BPM sensor	2		For the input of the wearer's heart rate, which the scent will be determined by	
+7	Resistors	1 pack		Pulldown for the MOSFET	
+8	Lavender scent liquid	1		To be diffused	
+9	Citrus scent liquid	1		To be diffused	
+10	Peppermint scent liquid	1		To be diffused	
+11	LiPo battery 500 MAH	2		To power watch	
+13	USB C cable	1		Wall power supply	
+14	MB 102 Breadboard Power Supply Module	2		To convert power from wall for the breadboard	
+15	TP4056 charging module	2		To charge the lipo battery	
+16	Slide switch	5		Control the power in the watch (On/Off)	﻿
+
